@@ -28,7 +28,7 @@ public class MicroPythonPrinter {
     /**
      * Imports an entire module in MicroPython.
      * This method generates an import statement for a specified module.
-     * Example usage: printImport("sys") would produce "import sys".
+     * Example usage: printImport("sys") would produce "import sys"..
      *
      * @param module The name of the module to import.
      */
